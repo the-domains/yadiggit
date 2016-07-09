@@ -1,0 +1,14 @@
+layout_spectrum: 0.9713262
+color:
+  saturation: 0.6129032
+  lightness: 0.6164874
+  brandStrength: 0.9910395
+  brandColors:
+    - '#1F1F1F'
+    - '#E2F6D9'
+    - '#01B901'
+    - '#74DC01'
+    - '#007100'
+  rhythmicContrast: 0.453405
+typography_spectrum: 0.5842294
+name: YaDiGGiT
