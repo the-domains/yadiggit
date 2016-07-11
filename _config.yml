@@ -1,8 +1,19 @@
-layout_spectrum: 0.9713262
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6129032
+  brandStrength: 0.6397849
   lightness: 0.6164874
-  brandStrength: 0.9910395
   brandColors:
     - '#1F1F1F'
     - '#E2F6D9'
@@ -10,5 +21,6 @@ color:
     - '#74DC01'
     - '#007100'
   rhythmicContrast: 0.453405
-typography_spectrum: 0.5842294
+typography_spectrum: 0.1774193
+layout_spectrum: 0.9713262
 name: YaDiGGiT
