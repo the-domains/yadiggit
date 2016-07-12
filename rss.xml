@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YaDiGGiT]]></title>
+        <description><![CDATA[YaDiGGiT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 16:34:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to YaDiGGiT Posters: Urban Art Gallery on the.grid.ai the Latest AI technology with websites.. Stay tuned for our integrated AI website.. ]]></title>
+            <description><![CDATA[<article><h1>Welcome to YaDiGGiT Posters: Urban Art Gallery on the.grid.ai the Latest AI technology with websites.. Stay tuned for our integrated AI website.. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0acfc11-d1eb-479f-bcb1-48b39ce9d41f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0acfc11-d1eb-479f-bcb1-48b39ce9d41f.jpg</link>
+            <guid isPermaLink="false">c5c3a954-cd10-43c3-83e8-7e4a8a93ef65</guid>
+            <pubDate>Tue, 12 Jul 2016 16:33:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
