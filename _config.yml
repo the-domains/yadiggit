@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.6129032
+  saturation: 0.781362
   brandStrength: 0.4354839
-  lightness: 0.6164874
+  lightness: 0.5143369
   brandColors:
-    - '#010000'
+    - '#000000'
     - '#FFFFFF'
-    - '#A6A8A7'
-    - '#4B494A'
-    - '#898788'
+    - '#646464'
+    - '#CACACA'
+    - '#999999'
   rhythmicContrast: 0.453405
-typography_spectrum: 0.9390681
-layout_spectrum: 0.9014337
+typography_spectrum: 0.5197133
+layout_spectrum: 0.9551972
 name: YaDiGGiT
